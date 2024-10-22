@@ -2,7 +2,7 @@
 - 👀 I’m interested in VR and games.
 - 🌱 I’m currently learning to code video games.
 - 💞️ I’m looking to collaborate on nothing yet.
-- 📫 How to reach me discord Whitefox#4324.
+- 📫 How to reach me discord Arcticfoxi
 
 <!---
 WhitefoxGaming/WhitefoxGaming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
